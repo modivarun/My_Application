@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- res/drawable/frosted_texture.xml -->
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@android:drawable/alert_dark_frame" />
+    <item android:drawable="@android:drawable/screen_background_dark_transparent" />
+</layer-list>
